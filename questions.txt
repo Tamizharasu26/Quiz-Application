@@ -1,0 +1,139 @@
+Which programming language is platform independent?
+C
+C++
+Java
+Python
+3
+
+What is the size of int in Java?
+2 bytes
+4 bytes
+8 bytes
+Depends on OS
+2
+
+Which keyword is used to inherit a class in Java?
+this
+super
+extends
+implements
+3
+
+Which of these is not a Java feature?
+Object-oriented
+Portable
+Use of pointers
+Robust
+3
+
+Which method is the entry point of a Java program?
+start()
+main()
+init()
+run()
+2
+
+Which package is imported by default in all Java programs?
+java.io
+java.lang
+java.util
+java.net
+2
+
+Which keyword is used to prevent inheritance in Java?
+final
+static
+const
+private
+1
+
+Which of the following is used to handle exceptions in Java?
+try-catch
+if-else
+throw-else
+error-handler
+1
+
+What is the default value of a boolean variable in Java?
+true
+false
+0
+null
+2
+
+Which operator is used for object comparison in Java?
+==
+equals()
+=
+compare()
+2
+
+Which of these is a wrapper class in Java?
+int
+float
+Integer
+char
+3
+
+Which concept of OOP is used to achieve runtime polymorphism?
+Overloading
+Overriding
+Encapsulation
+Abstraction
+2
+
+Which method is used to start a thread in Java?
+init()
+start()
+run()
+execute()
+2
+
+Which collection class allows duplicates?
+Set
+List
+Map
+None
+2
+
+Which keyword is used to define an interface in Java?
+class
+interface
+implements
+package
+2
+
+Which class is the parent of all classes in Java?
+System
+Object
+Class
+Runtime
+2
+
+Which stream is used to read characters in Java?
+InputStream
+FileInputStream
+Reader
+BufferedInputStream
+3
+
+Which of these exceptions is checked during compilation?
+NullPointerException
+ArithmeticException
+IOException
+ArrayIndexOutOfBoundsException
+3
+
+Which method is used to get the length of a string in Java?
+length()
+size()
+getLength()
+count()
+1
+
+Which loop is guaranteed to execute at least once?
+for
+while
+do-while
+enhanced for
+3
